@@ -1,0 +1,11 @@
+{
+  "token": "여기에_봇_토큰",
+  "guild_id": "여기에_서버_ID",
+  "review_channel_id": "여기에_가입심사_채널_ID",
+  "log_channel_id": "",
+  "guild_role": "길드원",
+  "mercenary_role": "용병",
+  "waiting_role": "가입대기",
+  "admin_role": "관리자",
+  "welcome_message": "길드 가입을 환영합니다! 공지사항과 길드 규칙을 확인해주세요. 문의사항은 운영진에게 말씀해주세요."
+}

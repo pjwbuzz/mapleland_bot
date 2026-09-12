@@ -1,0 +1,21 @@
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+WARNING:discord.client:davey is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: aa7881f79c76e32d79c6dbe61207cb7f).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+WARNING:discord.client:davey is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 445f2d33a4ae72988b71e2508bf9f987).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+WARNING:discord.client:davey is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 630694adfd860c4edc6a0d4055d61326).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+WARNING:discord.client:davey is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 776cc99832096baaeaefc2d4439a1db7).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+WARNING:discord.client:davey is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 29da5510e003eea3462c067d49ba9296).
+INFO:guild_bot:신청 #1 / 사용자 262217542137806848 / ✅ 승인 완료 / 승인자 309269152495828995 / DM 성공
